@@ -1,0 +1,117 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h2
+{
+    width: 100%;
+    height: 50px;
+    background-color: #0d0d81;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+label
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input
+{
+    margin: 10px;
+    padding: 10px;
+    padding-right: 70px;
+}
+
+.name
+{
+    margin-left: 149px;
+}
+
+.email
+{
+    margin-left: 150px;
+}
+
+.number
+{
+    margin-left: 70px;
+}
+
+.password
+{
+    margin-left: 113px;
+}
+
+.confirmPassword
+{
+    margin-left: 39px;
+}
+
+.address
+{
+    margin-left: 126px;
+}
+
+.city
+{
+    margin-left: 164px;
+}
+
+.state
+{
+    margin-left: 154px;
+}
+
+.country
+{
+    margin-left: 129px;
+}
+
+.zipcode
+{
+    margin-left: 121px;
+}
+
+button
+{
+    background: yellow;
+    border: 2px solid yellow;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-left: 440px;
+    cursor: pointer;
+}
+
+button:hover
+{
+    background: blue;
+    border: 2px solid blue;
+    color: aliceblue;
+}
+
+.footer
+{
+    width: 100%;
+    height: 40px;
+    background-color: #0d0d81;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-size: 10px;
+}
